@@ -28,6 +28,8 @@ So i knew that username is sadcowboy.
 
 But i can't find the password, so i just testing some default passwords and  i got one idea that why i don't try sql injection in password field.
 
+So tried (sadcowboy) for username and for password i used (' or 1=1 --) for password
+
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-46-29.png)
 
 Well, you can tell that i am lucky because in my first try with sql injection, It worked! Perfect!
