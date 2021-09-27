@@ -17,7 +17,7 @@ When I go to it, i got (.eml) email file
 
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-44-51.jpg)
 
-When i looked into the email file,
+I looked into the email file.
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-46-00.png)
 
 # Solution
