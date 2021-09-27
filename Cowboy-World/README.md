@@ -3,7 +3,7 @@
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-41-34.png)
 
 # Vulnerability
-Honestly, i didn't really know what type of vulnerability until now even i solved it. 
+Honestly, i didn't really know what type of vulnerability until now even i solved it. 😂
 
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-41-45.png)
 
