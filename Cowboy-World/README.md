@@ -5,11 +5,9 @@
 # Vulnerability
 Honestly, i didn't really know what type of vulnerability until now even i solved it. 
 
-I am playing around the website. 
-
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-41-45.png)
 
-And i found (/robots.txt) that leads to another web path called (/sad.eml)
+I am just playing around the website And i found (/robots.txt) that leads to another web path called (/sad.eml)
 
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-42-01.png)
 
