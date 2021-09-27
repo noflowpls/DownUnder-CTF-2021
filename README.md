@@ -1,3 +1,3 @@
 # DownUnder-CTF-2021
 
-The Writeups for Down-Under-CtF_2021
+The Writeups for Down-Under-CTF_2021
