@@ -7,6 +7,8 @@ Honestly, i didn't really know what type of vulnerability until now even i solve
 
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-41-45.png)
 
+# Solution
+
 I am just playing around the website And i found (/robots.txt) that leads to another web path called (/sad.eml)
 
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-42-01.png)
@@ -18,7 +20,6 @@ When I go to it, i got (.eml) email file
 I looked into the email file.
 ![ctf](https://github.com/ComdeyOverFlow/DownUnder-CTF-2021/blob/main/Cowboy-World/images/Screenshot%20from%202021-09-27%2002-46-00.png)
 
-# Solution
 I knew the email is send to sadcowboys@gmail.com. And i noticed the letters in the line of 18,
 
 said that "thats why a 'sadcowboy' is only allowed to go into our website". 
